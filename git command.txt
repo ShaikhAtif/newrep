@@ -1,0 +1,5 @@
+git status
+git init			(to initialize/make the local folder into repo)
+git add -A			(to allow git watch/track the files)
+git commit -m "Any message"	(to 
+
